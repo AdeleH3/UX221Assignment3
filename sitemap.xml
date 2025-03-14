@@ -12,11 +12,6 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/sample-page/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/products/
         </loc>
     </url>
@@ -28,6 +23,26 @@
     <url>
         <loc>
             http://localhost:8000/products/sprinkle-chocolate-donut/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/croissant/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/ham-sandwich/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/chocolate-chip-cookie/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/blueberry-muffin/
         </loc>
     </url>
     <url>
